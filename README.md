@@ -1,15 +1,15 @@
-Lucky Project
+# Lucky Project
 
-Description:
+## Description:
 
-Table of Contents:
+## Table of Contents:
 
-Installation:
+## Installation:
 
-Usage:
+## Usage:
 
-Contributing:
+## Contributing:
 
-Credits:
+## Credits:
 
-License:
+## License:
